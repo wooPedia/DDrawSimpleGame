@@ -50,7 +50,6 @@
 
 ## 참고한 유영천님의 Github 및 Youtube 강의
 - https://github.com/megayuchi/PixelHorizon
-
 - https://www.youtube.com/watch?v=J0MNKUYw1zY
 
 
@@ -59,4 +58,6 @@
 ## 참고한 컴포넌트 기반 게임 오브젝트 설계 자료
 
 - https://gamedevforever.com/41
+- https://www.slideshare.net/kgun86/kgc2012-14699174
+- https://www.slideshare.net/kgun86/ss-10103030
 - 게임 엔진 아키텍쳐(에이콘)
